@@ -5,6 +5,7 @@
 Freebuff2API is an OpenAI-compatible proxy server for [Freebuff](https://freebuff.com). It translates standard OpenAI API requests into Freebuff's backend format, allowing you to use Freebuff's free models with any OpenAI-compatible client, SDK, or CLI tool.
 
 ## Features
+## 
 
 - **OpenAI Compatible API** — Standard OpenAI endpoints; works with any compatible client out of the box.
 - **Stealth Request Handling** — Dynamic, randomized client fingerprints that mimic official Freebuff SDK behavior.
